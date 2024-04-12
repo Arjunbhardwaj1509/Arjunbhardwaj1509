@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer Science
 - 🌱 I’m currently learning Data structures and algorithms in c++ language and I am also learning front end web developement
 - 💞️ I’m looking to collaborate on ...some projects based on DSA and Web developement
-- 📫 How to reach me My gamil is arjunbhardwaj1509@gmail.com
+- 📫 you can reach me at my gamil is arjunbhardwaj1509@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
